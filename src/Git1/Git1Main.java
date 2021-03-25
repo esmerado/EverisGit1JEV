@@ -11,6 +11,9 @@ public class Git1Main {
 
 		list.add("Hola");
 		list.add("Mundo");
+		list.add("Modificado");
+		list.add("Para segundo");
+		list.add("Commit");
 		
 		list.stream().forEach(System.out::println);
 		
